@@ -105,23 +105,5 @@ For some requests, an API Key is required. Pass the API Key in the headers as fo
 ## Running the Tests
 This collection includes several test scripts that automatically verify the status codes, response formats, and other essential conditions. You can run these tests directly in Postman.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
 
-## How to Upload and Showcase on GitHub
-
-### 1. Create a GitHub Repository
-- Go to [GitHub](https://github.com) and create a new repository.
-- Name the repository (e.g., `valentino-coffee-house-api`).
-
-### 2. Upload Files
-- Clone the repository to your local machine.
-- Place your `README.md` and `Valentino Artisan Coffee House API.postman_collection.json` in the root folder of the repository.
-- Commit and push the changes:
-```bash
-git add .
-git commit -m "Initial commit"
-git push origin main
-```
