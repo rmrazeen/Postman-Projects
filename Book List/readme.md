@@ -1,4 +1,4 @@
-# Book List API
+# Book Store API
 
 This project demonstrates the use of the **Book List API** to manage book-related operations, such as retrieving a list of books, placing orders, and updating customer information. The API collection is designed to interact with an online bookstore where users can retrieve book details, register API clients, and order books.
 
