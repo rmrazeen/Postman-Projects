@@ -1,6 +1,3 @@
-Here is the complete set of test cases in a consistent GitHub Markdown format, with the tester name **Razeen**:
-
-```md
 # API Test Cases
 
 ## Test Case: Verify Status Endpoint
